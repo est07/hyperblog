@@ -5,5 +5,6 @@ Un blog para el curso de Git y Github de Platzi
 ##Este curso contiene:
 * Todos los comandos de Git 
 * El flujo de trabajo de Git
+* Creado por Platzi Team
 
 Y solo es como recordatorio para el cuso.
